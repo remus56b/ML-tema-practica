@@ -22,4 +22,4 @@ def predict_digit(image_path):
     return prediction[0]
 
 
-print(predict_digit('C:\\Users\\remus\\Documents\\GitHub\\ML-tema-practica\\cifra2.png'))
+print(predict_digit('C:\\Users\\remus\\Documents\\GitHub\\ML-tema-practica\\cifra1.jpg'))
